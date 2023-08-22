@@ -23,7 +23,7 @@ list.addEventListener('click',function(e) {
         setLocal();
     }
     if (e.target.tagName === 'LI') {
-        e.target.parentElement.classList.toggle("line-through")
+        e.target.classList.toggle("line-through")
     }
 });
 
