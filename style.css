@@ -1,0 +1,28 @@
+#title {
+    text-align: center;
+    font-size: 40px;
+}
+#todo-list {
+    text-align: center;
+}
+
+div.container {
+    text-align: center;
+  }
+  
+  #task-list {
+    display: inline-block;
+    text-align: left;
+  }
+  ul li{
+    margin: 20px;
+ }
+ #done{
+    margin-left: 20px;
+ }
+ .line-through{
+    text-decoration: line-through;
+    font-style: italic;
+    color: grey;
+ }
+
